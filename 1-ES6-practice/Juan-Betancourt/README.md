@@ -22,10 +22,9 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
-
+const is the more robust way of coding because the value of the variable cannot change. I change it to let when it is one of the five primitive data types.
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+const and let replace var in ES6 and where possible the code should have const to avoid any changes to the value. Overall, excellent project.
